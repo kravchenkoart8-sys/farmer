@@ -1,0 +1,7 @@
+{
+  "name": "Sproutwood Farm",
+  "description": "A cozy, charming browser farming simulator featuring crop planting, harvesting, day/night cycles, shop, farm upgrades, and backend state persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
